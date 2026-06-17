@@ -99,6 +99,7 @@ const removeEslintPrettier = () => {
         style: {
           noNonNullAssertion: 'off',
           useSingleVarDeclarator: 'off',
+          useImportType: 'off',
         },
         suspicious: {
           noExplicitAny: 'off',
